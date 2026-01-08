@@ -7,8 +7,8 @@
 
 :root {
     --ligth-gray: #f5f6f7;
-    --dark-blue: #1b1b32;
-    --orange: #f1be32;
+    --light-black: #0b1120;
+    --orange: #ff6a3d;
 }
 
 
@@ -19,7 +19,7 @@ body{
     font-family: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace;
     font-size: 1.125rem;
     color: var(--ligth-gray);
-    background-color: var(--dark-blue);
+    background-color: var(--light-black);
     padding: 0 4px;
 }
 
